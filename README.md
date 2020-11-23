@@ -10,7 +10,8 @@ TEAM NAME - TRIBIT
 
 TEAM MEMBERS -
 
+Kevin Paul      2019052  kevin19052@iiitd.ac.in
 Tanmay Rajore   2019118  tanmay19118@iiitd.ac.in
 Devansh Gupta   2019160  devansh19160@iiitd.ac.in
-Kevin Paul      2019052  kevin19052@iiitd.ac.in
+
 
